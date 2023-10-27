@@ -24,8 +24,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:debasishmath92@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
+- 💼 Any interesting project? do reach, [email](mailto:debasishmath92@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
 **Languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
