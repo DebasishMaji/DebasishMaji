@@ -1,5 +1,5 @@
 ### Hi there 👋
-hi, i'm [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96)
+I'm [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96)
 
 ## 🚀 About Me
 
