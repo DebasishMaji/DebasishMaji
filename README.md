@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: AI and Blockchain
 - 🤔 I’m looking for help with: next-generation AI innovation
 - 💬 Ask me about: my vision for the future and the impact I want to make
-- 📫 How to reach me: Connect me on Linkedin [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96)
+- 📫 How to reach me: Connect me on Linkedin [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96) Or [Debasish Maji Personal Website]([https://debasishmaji.com/])
 - 😄 Pronouns: ..
-- ⚡ Fun fact: Did you know that I have a secret talent for creating intricate, automated systems not just in code but also in their daily lives? From home automation setups that control lights, appliances, and temperature, to custom-built task automation scripts that streamline their work processes, backend developers often apply their problem-solving skills to make their everyday lives more efficient and enjoyable
+- ⚡ Fun fact: In my free time, I enjoy experimenting with AI to automate creative tasks. I once trained an AI to generate unique bedtime stories based on prompts from friends and family. It was fascinating to see how the AI could weave different themes together, and it turned out to be a big hit at gatherings!
