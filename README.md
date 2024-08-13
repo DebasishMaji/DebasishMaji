@@ -44,13 +44,6 @@ Microservices     2 hours          ███████░░░░░░░░
 Experiment        2 hours          ███████░░░░░░░░░░░░░░░░░░   ~10.00 %
 ```
 
-
-📈 My Github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debasishmaji&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<!--
-**DebasishMaji/DebasishMaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Architecting Scalable Systems
