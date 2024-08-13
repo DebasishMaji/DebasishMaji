@@ -3,7 +3,7 @@ I'm [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96)
 
 ## 🚀 About Me
 
-- **Experience**: With over 7 years in the industry, I've honed my skills in building efficient, maintainable, and secure backend solutions.
+- **Experience**: With over 8 years in the industry, I've honed my skills in building efficient, maintainable, and secure backend solutions.
 - **Passion for Innovation**: I'm deeply passionate about AI and blockchain, and I'm actively involved in pioneering projects that push the boundaries of what's possible.
 - **Tech Stack**: My expertise spans various technologies, but I have a particular love for Backend Development, System Architecture, Database Management, API Design, Cloud Computing, Scalability and Performance Optimization, Security, DevOps and CI/CD, Containerization and Orchestration, Message Queues and Pub-Sub Systems, Monitoring and Logging, Testing and Test Automation, Version Control, Agile and Collaboration, Documentation, Problem-Solving and Debugging, Team Leadership and Mentorship, Understanding of Data Structures and Algorithms, AI and Blockchain Knowledge, Continuous Learning.
 - **Optimization Freak**: I thrive on squeezing every ounce of performance from server-side applications, ensuring they scale seamlessly.
@@ -43,17 +43,6 @@ AI   5 Hours 10 mins               ████████████░░░
 Microservices     2 hours          ███████░░░░░░░░░░░░░░░░░░   ~10.00 %
 Experiment        2 hours          ███████░░░░░░░░░░░░░░░░░░   ~10.00 %
 ```
-
-<!--END_SECTION:waka-->
-
-
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My Github stats
