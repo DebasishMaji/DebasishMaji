@@ -3,21 +3,28 @@ I'm [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96)
 
 ## 🚀 About Me
 
-- **Experience**: With over 8 years in the industry, I've honed my skills in building efficient, maintainable, and secure backend solutions.
-- **Passion for Innovation**: I'm deeply passionate about AI and blockchain, and I'm actively involved in pioneering projects that push the boundaries of what's possible.
-- **Tech Stack**: My expertise spans various technologies, but I have a particular love for Backend Development, System Architecture, Database Management, API Design, Cloud Computing, Scalability and Performance Optimization, Security, DevOps and CI/CD, Containerization and Orchestration, Message Queues and Pub-Sub Systems, Monitoring and Logging, Testing and Test Automation, Version Control, Agile and Collaboration, Documentation, Problem-Solving and Debugging, Team Leadership and Mentorship, Understanding of Data Structures and Algorithms, AI and Blockchain Knowledge, Continuous Learning.
-- **Optimization Freak**: I thrive on squeezing every ounce of performance from server-side applications, ensuring they scale seamlessly.
+- **Experience**: With over 8 years in the tech industry, I specialize in building scalable and secure backend systems. I have a strong foundation in system architecture and performance optimization.
+- **Passion for AI and ML**: My current focus lies in leveraging Artificial Intelligence and Machine Learning to create innovative solutions. I’m especially interested in applying AI for enhancing code reliability, automated testing, and software evaluation.
+- **Tech Stack**: My core expertise includes Backend Development, AI/ML Model Integration, System Architecture, Database Management, API Design, Cloud Computing, and Performance Optimization. I also have deep experience in Security, DevOps practices (CI/CD), Containerization, and Orchestration, with a keen interest in blockchain and decentralized systems.
 
-## 🛠️ Skills
+- **Optimization Enthusiast**: I’m passionate about solving performance bottlenecks and architecting systems that are not only scalable but also efficient. AI-based optimization is an area where I continually push boundaries.
 
-- Backend Development
-- RESTful API Design
-- Database Architecture
-- AI and Machine Learning
-- Blockchain Development
-- Cloud Computing (AWS, Azure)
-- Scalability and Performance Optimization
+## 🧠 **AI and ML Expertise**
 
+- **AI-Driven Development**: I integrate AI models to improve code efficiency, enhance system performance, and solve complex challenges in software development.
+- **Machine Learning**: Experience with training and deploying ML models for diverse applications, including predictive analytics, natural language processing, and AI-based code evaluation.
+- **Ongoing Research**: Currently working on a research paper focused on **Code Reliability** and **Evaluation**, utilizing AI to automate testing processes and ensure high standards of code quality and performance.
+
+## 🛠️ **Skills**
+
+- Backend Development  
+- **AI and Machine Learning Solutions**  
+- AI-Driven Code Reliability and Evaluation  
+- Cloud Computing (AWS, Azure)  
+- Microservices Architecture  
+- Scalability and Performance Optimization  
+- Blockchain and Decentralized Applications  
+- Security and Encryption  
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
