@@ -1,6 +1,17 @@
 ### Hi there 👋
 I'm [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96)
 
+Here are some ideas to get you started:
+- 🔭 Current Projects: Researching AI applications for code reliability and evaluation, developing scalable AI-based systems.
+- 🌱 Learning: Advanced AI/ML algorithms for software performance improvement.
+- 👯 Looking to collaborate: AI, ML, and blockchain innovations that can disrupt traditional industries.
+- 🤔 Seeking help with: AI-driven solutions for enhancing software code quality.
+- 💬 Ask me about: My ongoing research in AI-powered code evaluation and reliability.
+- 📫 Reach me: Connect via LinkedIn or my personal website.
+- Fun fact: In my free time, I experiment with AI to create unique projects, such as an AI that generates creative bedtime stories based on user prompts—it’s a fun and engaging way to explore AI’s capabilities!
+- 📫 How to reach me: Connect me on Linkedin [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96) Or [Debasish Maji Personal Website]([https://debasishmaji.com/])
+
+
 ## 🚀 About Me
 
 - **Experience**: With over 8 years in the tech industry, I specialize in building scalable and secure backend systems. I have a strong foundation in system architecture and performance optimization.
@@ -44,20 +55,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-JAVA   10 hrs 23 mins              ████████████████████░░░░░   ~50.00 %
-Python   1 hr 15 mins              ████░░░░░░░░░░░░░░░░░░░░░   ~05.00 %
-AI   5 Hours 10 mins               ████████████░░░░░░░░░░░░░   ~25.00 %
-Microservices     2 hours          ███████░░░░░░░░░░░░░░░░░░   ~10.00 %
-Experiment        2 hours          ███████░░░░░░░░░░░░░░░░░░   ~10.00 %
+AI Research & Development  8 hrs 30 mins   █████████████░░░░░░░░░░░░   ~42.50 %
+Backend Development        7 hrs 45 mins   ████████████░░░░░░░░░░░░░   ~38.75 %
+Code Reliability Testing   2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   ~11.25 %
+Microservices Architecture 1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   ~07.50 %
 ```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Architecting Scalable Systems
-- 🌱 I’m currently learning: Master Advanced Technologies including AI and Blockchain and Security
-- 👯 I’m looking to collaborate on: AI and Blockchain
-- 🤔 I’m looking for help with: next-generation AI innovation
-- 💬 Ask me about: my vision for the future and the impact I want to make
-- 📫 How to reach me: Connect me on Linkedin [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96) Or [Debasish Maji Personal Website]([https://debasishmaji.com/])
-- 😄 Pronouns: ..
-- ⚡ Fun fact: In my free time, I enjoy experimenting with AI to automate creative tasks. I once trained an AI to generate unique bedtime stories based on prompts from friends and family. It was fascinating to see how the AI could weave different themes together, and it turned out to be a big hit at gatherings!
