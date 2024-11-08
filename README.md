@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: My ongoing research in AI-powered code evaluation and reliability.
 - 📫 Reach me: Connect via LinkedIn or my personal website.
 - Fun fact: In my free time, I experiment with AI to create unique projects, such as an AI that generates creative bedtime stories based on user prompts—it’s a fun and engaging way to explore AI’s capabilities!
-- 📫 How to reach me: Connect me on Linkedin [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96) Or [Debasish Maji Personal Website]([https://debasishmaji.com/])
+- 📫 How to reach me: Connect me on Linkedin [Debasish Maji](https://www.linkedin.com/in/debasish-maji-88170a96) Or [Debasish Maji]([https://debasishmaji.com/]) Personal Website
 
 
 ## 🚀 About Me
